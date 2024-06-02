@@ -1,0 +1,170 @@
+.top {
+    display: grid;
+    grid-template-columns: 6% 64% 29.6%;
+
+}
+
+.myclass {
+    background-color: #38ada9;
+    border: 2px solid white;
+}
+
+#place {
+    background-color: #38ada9;
+    text-align: center;
+    padding: .2px;
+    border: 2px solid white;
+}
+
+.navbar {
+
+    background-color: #833471;
+    display: inline-block;
+    padding: .2px;
+    height: 50px;
+    width: 16.3%;
+}
+
+.navbar:hover {
+    background-color: #5e2450;
+}
+
+.nav {
+    text-align: center;
+}
+
+#w {
+    color: white;
+}
+
+.lnk {
+    color: white;
+    text-decoration: none;
+
+}
+
+h2 {
+    text-align: center;
+    margin-top: 36px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#parah {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    padding: 5px;
+    width: 48%;
+}
+
+#img {
+    display: inline-block;
+    padding: 2px;
+    width: 50%;
+}
+
+.form {
+    display: block;
+    background-color: rgb(207, 205, 205);
+    border: 2px solid white;
+    border-radius: 5px;
+    height: auto;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+#from-reg {
+    margin-top: auto;
+    margin-bottom: 35px;
+}
+
+.log {
+    width: 86%;
+    margin-top: 10px;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+
+}
+
+input[type=submit]:hover {
+    background-color: #a4b0be;
+}
+
+#sign:hover {
+    color: #a7408f;
+}
+
+
+#tab {
+    border: 1px solid black;
+    border-spacing: 2px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 15px;
+    border: 1px solid black;
+    background-color: #CAD3C8;
+}
+
+tr {
+
+    height: 60px;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.news {
+    height: 60px;
+}
+
+.news:hover {
+    background-color: rgb(197, 193, 193);
+}
+
+.pic {
+    height: 191px;
+    width: 16%;
+}
+
+#msg {
+    display: inline-block;
+    width: auto;
+
+}
+
+#txt{
+    width:98%; 
+    height:145px;
+}
+
+#xyz {
+    display: inline-block;
+    width: 48%;
+
+    visibility: hidden;
+}
+
+#contact {
+    text-align: right;
+    display: inline-block;
+    width: auto;
+
+}
+
+#name {
+
+    font-weight: bold;
+    font-size: 18px;
+}
